@@ -146,7 +146,7 @@
     {"name": "解析38","type": 1,"url": "https://jx.renrenmi.cc/?url="}],
 	  
     "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-    "spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
+    "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar",
 
     "ijk": [
     {"group": "软解码","options": [
