@@ -318,7 +318,7 @@
     
     "parses": [
 	{"name": "Json併发","type": 2,"url": "Parallel"},
-    {"name": "Json轮询","type": 2,"url": "Sequence"},
+    //{"name": "Json轮询","type": 2,"url": "Sequence"},
     //{"name":"猫群专用1","type":1,"url":"https://svip.msdv.cn/api/?key=YAUhZt7TmZg2BUTQC2&url="},
     //{"name":"猫群专用2","type":0,"url":"http://ts.yjhan.com:8090/api/?key=kYMcDdn4gh3AAxVXbQ&url="},
     {"name":"猫群专用3","type":1,"url":"http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="},
