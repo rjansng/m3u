@@ -253,6 +253,7 @@
 ],
 
     "lives": [
+    {"group": "Taiwan频道","channels": [
     {"name": "AXN","urls": ["http://50.7.61.148:30080/Entry/axn"]},
     {"name": "AXN","urls": ["http://zhiboyuan.cf:2021/zby.php?id=87"]},
     {"name": "AXN","urls": ["http://211.23.114.106:8558"]},
