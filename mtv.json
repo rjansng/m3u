@@ -1,10 +1,10 @@
 ###
 {
   "sites": [ 
-{"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
 {"key":"csp_appysv2_星空影视","name":"星空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"星空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
 {"key":"csp_appysv2_天空影视","name":"天空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
 {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"天空影视V2###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
+{"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
 {"key":"csp_appys_饭团影视", "name":"饭团影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
 {"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
