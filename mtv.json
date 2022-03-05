@@ -327,7 +327,7 @@
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
    // "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-    "spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;53b8efeb040ca06429c0a2fe4b98dfd5",
+    "spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;a1a1126822b7371b31bd3c2222cf7a44",
 
 "ijk":[
 {"group":"软解码","options":[
