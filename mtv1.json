@@ -14,7 +14,6 @@
 {"key":"csp_Nekk","name":"9E看看(爬虫)","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key": "csp_xpath_ysjc",  "name": "工厂影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/gc.json"},
 {"key":"csp_appys_猫群自用1","name":"美剧","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"官采","name":"官采","type":1,"searchable":1,"quickSearch":1,"api":"http://47.244.124.231:9902/api/vod?ac=list","playUrl":""},
 {"key":"柒柒","name":"柒柒","type":1,"api":"https://www.77diany.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0},
