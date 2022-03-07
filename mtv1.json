@@ -248,7 +248,7 @@
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"猫群专用5","type":1,"url":"http://cygc.xyz:88/api/?key=MhH2xWPjH3ZX2n3Ddv&url="},
-{"name":"星星52","type":1,"url":"http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="},
+//{"name":"星星52","type":1,"url":"http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="},
 {"name":"星星53","type":1,"url":"http://42.157.128.85:880/analysis/json/?uid=1735&my=dhkmopwCFGIKOQRUX8&url="},
 {"name":"星星54","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url="},
 {"name":"星星55","type":1,"url":"http://app.renrenmi.cc:3333/api/?key=mtjJAJRXpwT5XAqWnn&url="},
