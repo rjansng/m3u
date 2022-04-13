@@ -3,11 +3,16 @@
   {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/if101.json"},
   {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Enlienli","name":"嗯哩嗯哩(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_N0ys","name":"90影视(爬虫)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/lib.json"},
+  {"key":"csp_xpath_yanet","name":"鸭奈飞(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/yanet.json"},
+  {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/dadagui.json"},
+  {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/jubaibai.json"},
+  {"key":"csp_xpath_lanmei","name":"蓝莓影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/lanmei.json"},
+  {"key":"csp_xpath_789ba","name":"789看片(XP)","type":3,"api":"csp_XPathRec","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/789ba.json"},
   {"key":"独播库","name":"独播库(XP)","type":3,"api":"csp_XPathDbk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/Duboku.json"},
   {"key":"csp_xpath_dmntv","name":"狐灵影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/dmntv.json"},
   {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/rjansng/m3u/main/json/94sm.json"},
@@ -283,5 +288,4 @@
   ],
 
 
-  "wallpaper":"https://picsum.photos/1920/1080","spider":"https://raw.githubusercontent.com/rjansng/m3u/main/custom_spider.jar;md5;1302a75dd5cc32b1afc01c310a2f6b89"
-}
+  "wallpaper":"https://picsum.photos/1920/1080","spider":"https://raw.githubusercontent.com/rjansng/m3u/main/custom_spider.jar;md5;1302a75dd5cc32b1afc01c310a2f6b89
