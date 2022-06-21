@@ -1,4 +1,6 @@
 {"zhuyejiekou": [
+{"name": "六神影视","url": "http://300kan.top/mogai_api.php/v1.vod"},
+{"name": "影视达人","url": "http://www.ysdr.vip/api.php/v1.vod"},
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
