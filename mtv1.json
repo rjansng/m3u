@@ -356,5 +356,5 @@
   ],
 
 
-  "wallpaper":"https://picsum.photos/1920/1080","spider":"https://github.com/rjansng/m3u/raw/main/custom_spider.jar?raw=true"
+  "wallpaper":"https://picsum.photos/1920/1080","spider":"https://raw.githubusercontent.com/rjansng/m3u/main/custom_spider.jar?raw=true"
 }
